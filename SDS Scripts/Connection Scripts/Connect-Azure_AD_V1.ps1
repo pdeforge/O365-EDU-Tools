@@ -1,6 +1,6 @@
 <#
 Script Name:
-Connect-Azure_AD_V2.ps1
+Connect-Azure_AD_V1.ps1
 
 Synopsis:
 This script is designed to connect your PowerShell client to Azure AD using the V1 MSOnline module. This script requires you have already installed the Azure AD module for PowerShell. If you haven't, run the Install-AAD_Module_and_Sign_in_Assistant.ps1 included in this script repository.
